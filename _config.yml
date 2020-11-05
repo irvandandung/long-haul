@@ -18,13 +18,15 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Article
+    url: /articles
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: irvandandung
+  twitter: irvandandung
+  facebook: irvandandung
+  email: irvandandung1@gmail.com
+  linkedin: muhamad-irvan-dandung-7b2964167
 
 google_analytics: "UA-58263416-1"
 
