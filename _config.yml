@@ -18,6 +18,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Certificates
+    url: /certificates
 
 social:
   github: irvandandung
