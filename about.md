@@ -8,6 +8,6 @@ title: About Dandoeng
   <center>
 	   <img src="{{ '/assets/img/my-photo.png' | prepend: site.baseurl }}" alt="">
   </center>
-	<p class="intro">Hai there, My name is Muhamad Irvan Dandung, you can call me Dandung. A Junior Software Engineer & Indonesian long life learner. You can download my cv in here. </p>
+	<p class="intro">Hai there, My name is Muhamad Irvan Dandung, you can call me Dandung. A Junior Software Engineer & Indonesian long life learner. You can download my cv in  <a href="{{ '/assets/cv/my_cv.pdf' | prepend: site.baseurl }}">here</a>.</p>
 	<p class="intro">Thank you for <a href="https://github.com/wlisrausr">Wanda</a>, because he inspires me for build my personal website / blog.</p>
 </div>
