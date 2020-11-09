@@ -2,7 +2,6 @@
 layout: project
 title:  "Football WebApps-Dicoding PWA Submission"
 date:   2020-11-9
-image: image-header.jpg
 type: project
 ---
 
