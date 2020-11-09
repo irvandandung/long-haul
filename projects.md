@@ -6,6 +6,7 @@ title: Project Dandoeng
 <div id="articles">
   <h2>Projects</h2>
   <ul class="posts noList">
+      {% for post in site.posts %}
         {% if post.type == "project" %}
           <li>
             <span class="date">{{ post.date | date_to_string }}</span>
