@@ -11,7 +11,7 @@ title: About Dandoeng
 	<p class="intro">Hai there, my name is Muhamad Irvan Dandung, you can call me Dandung. A Junior Software Engineer & Indonesian long life learner. You can download my cv in  <a href="{{ '/assets/cv/my_cv.pdf' | prepend: site.baseurl }}">here</a>.</p>
 	<h4>Where do I live?</h4>
 	<p style="margin-top: -5px;">Now, I live in Bekasi, West Java</p>
-	<h4>What kind of software i build?</h4>
+	<h4>What kind of software I build?</h4>
 	<p style="margin-top: -5px;">Webs, Mobile Apps, microservice. I will definitely try to  build, as long as that's useful for me, the company, and many people</p>
 	<h4>What kind of articles that I wrote on this website?</h4>
 	<p style="margin-top: -5px;">Anything that related about program, computer sience & my experience</p>
