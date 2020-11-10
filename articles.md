@@ -8,7 +8,7 @@ title: Articles Dandoeng
    <ul class="posts noList">
       {% assign post_project = 0 %}
       {% for post in site.posts %}
-          {% if post.type != "project" %}
+          {% if post.type != "Project" %}
           {% increment post_project %}
             <li>
               <span class="date">{{ post.date | date_to_string }}</span>

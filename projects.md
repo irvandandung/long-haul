@@ -7,7 +7,7 @@ title: Project Dandoeng
   <h2>Projects</h2>
   <ul class="posts noList">
       {% for post in site.posts %}
-        {% if post.type == "project" %}
+        {% if post.type == "Project" %}
           <li>
             <span class="date">{{ post.date | date_to_string }}</span>
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>

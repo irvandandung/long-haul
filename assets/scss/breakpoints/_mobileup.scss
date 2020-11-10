@@ -606,3 +606,42 @@ div.img img:hover{
 }
 
 
+/**************
+Button to Top
+***************/
+#buttonUp {
+  display: inline-block;
+  background-color: $primary-color;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 10%;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+#buttonUp::after {
+  content: "\f077";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  line-height: 50px;
+  color: #fff;
+}
+#buttonUp:hover {
+  cursor: pointer;
+  background-color: #333;
+}
+#buttonUp:active {
+  background-color: #555;
+}
+#buttonUp.show {
+  opacity: 1;
+  visibility: visible;
+}
