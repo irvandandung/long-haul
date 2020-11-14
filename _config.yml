@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: DANDOENG  :)
+description: Dandoeng Personal Website Form Jekyll & theme by brianmaierjr (built with SASS / COMPASS / SUSY)
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://dandoeng.tech/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -18,15 +18,21 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Projects
+    url: /projects
+  - title: Articles
+    url: /articles
+  - title: Certificates
+    url: /certificates
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: irvandandung
+  twitter: irvandandung
+  facebook: irvandandung
+  email: irvandandung1@gmail.com
+  linkedin: muhamad-irvan-dandung-7b2964167
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-183034923-1"
 
 disqus:
-    shortname: my-disqus-shortname
+    shortname: https-irvandandung-github-com
